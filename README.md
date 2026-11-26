@@ -187,7 +187,7 @@ Hardware measurements written into this schema run through `bench.py` and `exper
 
 ```bibtex
 @mastersthesis{agarwal2026hybridqem,
-  author = {Niket Agarwal},
+  author = {Niket Agrawal},
   title  = {Syndrome Decoding and Error Mitigation with Hybrid Quantum--Classical Machine Learning: Coverage, Cost and Robustness},
   school = {Indian Institute of Technology Jodhpur},
   type   = {M.Tech thesis},
@@ -197,4 +197,4 @@ Hardware measurements written into this schema run through `bench.py` and `exper
 
 ## Template and copyright
 
-The LaTeX layout follows the unofficial IIT Jodhpur thesis template by Chandan Mukherjee, distributed under CC BY-NC-SA 3.0; the template-derived files carry that licence. All other content (text, code, data and results) is © 2026 Niket Agarwal, all rights reserved.
+The LaTeX layout follows the unofficial IIT Jodhpur thesis template by Chandan Mukherjee, distributed under CC BY-NC-SA 3.0; the template-derived files carry that licence. All other content (text, code, data and results) is © 2026 Niket Agrawal, all rights reserved.
